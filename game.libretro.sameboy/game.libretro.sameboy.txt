@@ -1,1 +1,1 @@
-game.libretro.sameboy https://github.com/kodi-game/game.libretro.sameboy master
+game.libretro.sameboy https://github.com/kodi-game/game.libretro.sameboy buttonmap
